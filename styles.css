@@ -130,7 +130,7 @@ body {
 
 /* Scrollbar Styles */
 ::-webkit-scrollbar {
-    width: 8px;
+  width: 8px;
 }
 
 ::-webkit-scrollbar-track {
@@ -138,8 +138,8 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #FF5722;
-    border-radius: 4px;
+  background: #FF5722;
+  border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
